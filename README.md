@@ -67,15 +67,15 @@ El bot genera un **gráfico** con:
 ---
 
 ## 👥 Contribución
-Si quieres mejorar el bot, síguelo y haz un pull request en este repositorio.
-
+Contribuciones, informes de errores y solicitudes de nuevas características son bienvenidos. Por favor, abre un issue o envía un pull request.
 ---
 
 ## 📈 Contacto
-Si tienes dudas o sugerencias, puedes contactarme en [tu correo o redes sociales].
-
+Si tienes preguntas o comentarios, no dudes en ponerte en contacto:
+- **Autor**: Gabriel Giuffrida
+- **Correo**: gabrielgiu19@gmail.com
+- **LinkedIn**: www.linkedin.com/in/gabriel-giuffrida
 ---
 
-## 🛠️ Licencia
-Este proyecto está bajo la licencia MIT.
+
 
