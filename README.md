@@ -1,4 +1,4 @@
-# Bot-de-Trading-con-Backtrader
+# Bot de Trading-con-Backtrader
 
 ## ✨ Descripción
 Este es un **bot de trading** básico basado en la librería **Backtrader**, diseñado para operar con **Bitcoin (BTC)** usando el indicador **RSI (Relative Strength Index)**. Este bot simula la compra y venta de BTC según las señales generadas por el RSI.
